@@ -1,6 +1,6 @@
 {
   "name": "zest-rhino-starter",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "android-clean": "cd android && ./gradlew clean && rm ./app/src/main/assets/index.android.bundle && rm ./app/src/main/assets/index.android.bundle.meta",
