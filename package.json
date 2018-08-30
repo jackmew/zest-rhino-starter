@@ -26,7 +26,7 @@
     "mobx-react": "5.2.3",
     "react": "16.2.0",
     "react-native": "0.53.0",
-    "react-native-navigation": "1.1.406",
+    "react-native-navigation": "1.1.4063",
     "react-native-charts-wrapper": "0.4.3",
     "react-native-refreshable-flatlist": "0.1.1",
     "react-native-scrollable-tab-view": "0.8.0",
